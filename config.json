@@ -1,0 +1,14 @@
+{
+    "version": "1.0.0",
+    "config": {
+        "auto_start": true,
+        "silent_start": true,
+        "save_path": "screenshots",
+        "capture_interval": 5.0,
+        "buffer_size": 100,
+        "foreground_detection": true,
+        "ink_detection": true,
+        "process_names": "notepad.exe,word.exe,powerpnt.exe",
+        "save_times": ["08:40,09:30,10:20,11:20,12:20,15:20,16:15,17:05"]
+    }
+}

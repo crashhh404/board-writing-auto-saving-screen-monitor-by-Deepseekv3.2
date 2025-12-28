@@ -1,0 +1,21 @@
+ScreenMonitor_v6_build/
+├──dist
+├──modules/
+│   ├── buffer.py_
+│   ├── __init__.py
+│   ├── detector.py
+│   ├── config.py
+│   ├── logger.py 
+│   ├── gui.py
+│   ├── screenshot.py
+│   ├── tray.py
+├──resources
+├──screenshots
+├──build_exe.py
+├──config.ini
+├──config.json
+├──icon.ico
+├──main.py
+├──README.md
+├──requirements.txt
+├──process_history.json
